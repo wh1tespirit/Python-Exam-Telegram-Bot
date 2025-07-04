@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Какой тип данных в Python является неизменяемым (immutable)?",
+    "options": ["list", "set", "tuple", "dict"],
+    "correct": "C"
+  },
+  {
+    "question": "Какой метод добавляет элемент в конец списка?",
+    "options": ["append", "add", "insert", "extend"],
+    "correct": "A"
+  }
+] 
